@@ -1,25 +1,65 @@
 from functions import *
 
-data = [12, 15, 13, 16, 14]
+# -----------------------------------
+# --- data 
+# -----------------------------------
 
-print(mean(data))
-print(ci_mean(data))
+# skirv din data her
+data = [] 
 
-from functions import *
 
-print("=== BINOMIAL ===")
+# -----------------------------------
+# --- sandsynlighed
+# -----------------------------------
 
-print(binomial_pmf(3, 10, 0.2))
-print(binomial_cdf(3, 10, 0.2))
 
-print("\n=== POISSON ===")
 
-print(poisson_pmf(4, 2))
-print(poisson_cdf(4, 2))
+# -----------------------------------
+# --- fordeling
+# -----------------------------------
 
-print("\n=== NORMAL ===")
 
-print(normal_cdf(1.96))
-print(normal_quantile(0.975))
-print(normal_interval(-1.96, 1.96))
 
+# -----------------------------------
+# --- hypotese testing
+# -----------------------------------
+
+# example opg 10.2.2
+
+# Consider a hypothosis test H_0 : mu_1 = mu_2 against H_1 : mu_1 neq mu_2
+# suppose the sample sizes are
+n1 = 15
+n2 = 15
+
+# the means are:
+x1 = 4.7
+x2 = 7.8
+
+# and that 
+s1 = 4
+s2 = 6.25
+
+# assume that S sigma_1^2 = sigma_2^2 and the data is drawn from a normal distribution: use
+alpha = 0.05
+
+# -----------------------------------
+# solution:
+# -----------------------------------
+
+result = t_test_equal_var(
+    x1, x2,
+    s1, s2,
+    n1, n2,
+    alpha
+)
+
+lower, upper = ci_difference_means_equal_var(
+    x1, x2,
+    s1, s2,
+    n1, n2
+)
+
+
+# -----------------------------------
+
+# -----------------------------------

@@ -5,7 +5,7 @@ import scipy.stats as stat
 # Binomialfordeling -----------------------------------
 
 # når P(X = x)
-def binomial_pmf(x, n, p):
+def binomial_pmf(n, x, p):
     """
      Beregner P(X = x) for X ~ Bin(n,p), for Real n, 0 <= p <= 1, x = 0,1,...,n
     """

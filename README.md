@@ -146,6 +146,8 @@ Fra undervisning:
 
 
 
+
+
 <p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/" alt="Description" /></p>
 
 
