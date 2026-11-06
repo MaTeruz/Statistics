@@ -111,7 +111,7 @@ Fra undervisning:
 
 
 ### One-sample hypothesis testing
-
+Fra undervisning:
 
 <p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/Statistical_hypothesis_testing/one_samp_hyp_1.png" alt="Description" /></p>
 
@@ -129,6 +129,20 @@ Fra undervisning:
 
 
 <p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/Statistical_hypothesis_testing/one_samp_hyp_6.png" alt="Description" /></p>
+
+### Two-sample hypothesis testing
+Fra undervisning:
+
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/Statistical_hypothesis_testing/two_samp_hyp_1.png" alt="Description" /></p>
+
+
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/Statistical_hypothesis_testing/two_samp_hyp_2.png" alt="Description" /></p>
+
+
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/Statistical_hypothesis_testing/two_samp_hyp_3.png" alt="Description" /></p>
+
+
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/Statistical_hypothesis_testing/two_samp_hyp_4.png" alt="Description" /></p>
 
 
 
