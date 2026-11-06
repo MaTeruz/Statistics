@@ -20,6 +20,8 @@ Fra undervisning:
 
 ## Statistiks modellering
 
+
+### Discrete random variables and probability distributions
 Fra undervisning:
 
 <p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/statistical_modeling/disc_1.png" alt="Slide 1" /></p>
@@ -33,7 +35,43 @@ Fra undervisning:
 
 <p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/statistical_modeling/disc_4.png" alt="Slide 4" /></p>
 
+### Continuous random variables and probability distributions
+Fra undervisning:
 
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/statistical_modeling/stochastic_1" alt="Description" /></p>
+
+
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/statistical_modeling/stochastic_2" alt="Description" /></p>
+
+
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/statistical_modeling/stochastic_3" alt="Description" /></p>
+
+
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/statistical_modeling/stochastic_4" alt="Description" /></p>
+
+
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/statistical_modeling/stochastic_5" alt="Description" /></p>
+
+
+### Joint probability distributions
+Fra undervisning:
+
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/statistical_modeling/cov_1" alt="Description" /></p>
+
+
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/statistical_modeling/cov_2" alt="Description" /></p>
+
+
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/statistical_modeling/cov_3" alt="Description" /></p>
+
+
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/statistical_modeling/cov_4" alt="Description" /></p>
+
+
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/statistical_modeling/cov_5" alt="Description" /></p>
+
+### 
+Fra undervisning:
 
 <p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/" alt="Description" /></p>
 
