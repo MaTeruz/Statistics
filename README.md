@@ -38,37 +38,37 @@ Fra undervisning:
 ### Continuous random variables and probability distributions
 Fra undervisning:
 
-<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/statistical_modeling/stochastic_1" alt="Description" /></p>
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/statistical_modeling/stochastic_1.png" alt="Description" /></p>
 
 
-<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/statistical_modeling/stochastic_2" alt="Description" /></p>
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/statistical_modeling/stochastic_2.png" alt="Description" /></p>
 
 
-<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/statistical_modeling/stochastic_3" alt="Description" /></p>
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/statistical_modeling/stochastic_3.png" alt="Description" /></p>
 
 
-<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/statistical_modeling/stochastic_4" alt="Description" /></p>
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/statistical_modeling/stochastic_4.png" alt="Description" /></p>
 
 
-<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/statistical_modeling/stochastic_5" alt="Description" /></p>
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/statistical_modeling/stochastic_5.png" alt="Description" /></p>
 
 
 ### Joint probability distributions
 Fra undervisning:
 
-<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/statistical_modeling/cov_1" alt="Description" /></p>
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/statistical_modeling/cov_1.png" alt="Description" /></p>
 
 
-<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/statistical_modeling/cov_2" alt="Description" /></p>
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/statistical_modeling/cov_2.png" alt="Description" /></p>
 
 
-<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/statistical_modeling/cov_3" alt="Description" /></p>
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/statistical_modeling/cov_3.png" alt="Description" /></p>
 
 
-<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/statistical_modeling/cov_4" alt="Description" /></p>
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/statistical_modeling/cov_4.png" alt="Description" /></p>
 
 
-<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/statistical_modeling/cov_5" alt="Description" /></p>
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/statistical_modeling/cov_5.png" alt="Description" /></p>
 
 ### 
 Fra undervisning:
