@@ -1,6 +1,8 @@
 # Statistics
 This project is for my statiscal course in uni 3rd-semester.
 
+Bog: Applied statistics and probability for engineers, 7th edition, by Douglas C, Montgomery * George C. Runner
+
 All slides are made by Claus Vaarning
 
 ## Basic Definition of teorien af Sandsynlighed
@@ -144,8 +146,53 @@ Fra undervisning:
 
 <p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/Statistical_hypothesis_testing/two_samp_hyp_4.png" alt="Description" /></p>
 
+- Example opg 10.2.2 
+```
+# example opg 10.2.2
 
+# Consider a hypothosis test H_0 : mu_1 = mu_2 against H_1 : mu_1 neq mu_2
+# suppose the sample sizes are
+n1 = 15
+n2 = 15
 
+# the means are:
+x1 = 4.7
+x2 = 7.8
+
+# and that 
+s1 = 4
+s2 = 6.25
+
+# assume that S sigma_1^2 = sigma_2^2 and the data is drawn from a normal distribution: use
+alpha = 0.05
+
+# -----------------------------------
+# solution:
+# -----------------------------------
+
+result = t_test_equal_var(
+    x1, x2,
+    s1, s2,
+    n1, n2,
+    alpha
+)
+
+lower, upper = ci_difference_means_equal_var(
+    x1, x2,
+    s1, s2,
+    n1, n2
+)
+```
+
+- Output:
+```
+Two-sample t-test (equal variances)
+t = -3.7501
+p = 0.0008
+df = 28
+Reject H0 = True
+95% CI for μ1 - μ2 = (-4.7933, -1.4067)
+```
 
 
 <p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/" alt="Description" /></p>
