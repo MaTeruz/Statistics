@@ -257,7 +257,7 @@ def paired_t_test(x, y):
 
 def ci_difference_means_equal_var(
     x1, x2,
-    s1_sq, s2_sq,
+    s1, s2,
     n1, n2,
     confidence=0.95
     ):
@@ -288,7 +288,7 @@ def ci_difference_means_equal_var(
         (lower_bound, upper_bound)
     """
 
-    sp2 = ((n1 - 1)*s1_sq + (n2 - 1)*s2_sq) / (n1 + n2 - 2)
+    sp2 = ((n1 - 1)*s1**2 + (n2 - 1)*s2**2) / (n1 + n2 - 2)
 
     se = np.sqrt(sp2 * (1/n1 + 1/n2))
 

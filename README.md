@@ -163,7 +163,7 @@ x2 = 7.8
 s1 = 4
 s2 = 6.25
 
-# assume that S sigma_1^2 = sigma_2^2 and the data is drawn from a normal distribution: use
+# assume that sigma_1^2 = sigma_2^2 and the data is drawn from a normal distribution: use
 alpha = 0.05
 
 # -----------------------------------

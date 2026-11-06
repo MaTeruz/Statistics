@@ -24,7 +24,7 @@ data = []
 # --- hypotese testing
 # -----------------------------------
 
-# example opg 10.2.2
+# example opg 10.1.2
 
 # Consider a hypothosis test H_0 : mu_1 = mu_2 against H_1 : mu_1 neq mu_2
 # suppose the sample sizes are
