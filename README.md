@@ -77,16 +77,16 @@ Fra undervisning:
 ### Descriptive statistics Sampling distributions Point estimation
 Fra undervisning:
 
-<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/billeder/Estimation_of_model_parameters/disc_samp_1.png" alt="Description" /></p>
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/Estimation_of_model_parameters/disc_samp_1.png" alt="Description" /></p>
 
 
-<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/billeder/Estimation_of_model_parameters/disc_samp_2.png" alt="Description" /></p>
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/Estimation_of_model_parameters/disc_samp_2.png" alt="Description" /></p>
 
 
-<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/billeder/Estimation_of_model_parameters/disc_samp_3.png" alt="Description" /></p>
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/Estimation_of_model_parameters/disc_samp_3.png" alt="Description" /></p>
 
 
-<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/billeder/Estimation_of_model_parameters/disc_samp_4.png" alt="Description" /></p>
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/Estimation_of_model_parameters/disc_samp_4.png" alt="Description" /></p>
 
 
 ### Interval estimation (confidence intervals)
@@ -113,22 +113,22 @@ Fra undervisning:
 ### One-sample hypothesis testing
 
 
-<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/billeder\Statistical_hypothesis_testing/one_samp_hyp_1.png" alt="Description" /></p>
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/billeder/Statistical_hypothesis_testing/one_samp_hyp_1.png" alt="Description" /></p>
 
 
-<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/billeder\Statistical_hypothesis_testing/one_samp_hyp_2.png" alt="Description" /></p>
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/billeder/Statistical_hypothesis_testing/one_samp_hyp_2.png" alt="Description" /></p>
 
 
-<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/billeder\Statistical_hypothesis_testing/one_samp_hyp_3.png" alt="Description" /></p>
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/billeder/Statistical_hypothesis_testing/one_samp_hyp_3.png" alt="Description" /></p>
 
 
-<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/billeder\Statistical_hypothesis_testing/one_samp_hyp_4.png" alt="Description" /></p>
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/billeder/Statistical_hypothesis_testing/one_samp_hyp_4.png" alt="Description" /></p>
 
 
-<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/billeder\Statistical_hypothesis_testing/one_samp_hyp_5.png" alt="Description" /></p>
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/billeder/Statistical_hypothesis_testing/one_samp_hyp_5.png" alt="Description" /></p>
 
 
-<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/billeder\Statistical_hypothesis_testing/one_samp_hyp_6.png" alt="Description" /></p>
+<p align="center"><img width="700" src="https://github.com/MaTeruz/Statistics/blob/main/billeder/billeder/Statistical_hypothesis_testing/one_samp_hyp_6.png" alt="Description" /></p>
 
 
 
